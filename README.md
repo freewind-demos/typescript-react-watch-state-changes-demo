@@ -1,9 +1,9 @@
-JavaScript React Hello World Demo
-=================================
+JavaScript React Watch State Changes Demo
+=========================================
 
 ```
 npm install
 npm run demo
 ```
 
-It will open <http://localhost:8080/> automatically.
+Open Browser's console to see output when typing.
